@@ -1,0 +1,24 @@
+{
+  "name": "techdegree-project-6",
+  "version": "1.0.0",
+  "description": "## CONTENTS OF THIS FILE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevBrum/TechDegree-Project-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevBrum/TechDegree-Project-6/issues"
+  },
+  "homepage": "https://github.com/WebDevBrum/TechDegree-Project-6#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
