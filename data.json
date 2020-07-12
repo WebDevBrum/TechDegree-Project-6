@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Web Cooks Public API request",
+      "description": "An Application for a fictional company called Web Cooks with remote employees working all over the world. This project users the Random User Generator API (https://randomuser.me) to grab information for 12 random employees and uses that data to build a prototype for an employee directory.",
+      "technologies": [
+        "JavaScript",
+        "JSON",
+        "http requests",
+        "AJAX",
+        "Fetch API",
+        "html",
+        "css",
+        "git"
+      ],
+      "live_link": "https://webdevbrum.github.io/TechDegree-Project-5/",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-5",
+      "image_urls": [
+        "public/images/apis/api_square.jpeg",
+        "public/images/apis/api_wide.jpeg",
+        "public/images/apis/api_search.jpeg"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Dr Phraser - A Word guessing game",
+      "description": "A Browser based guessing game 'Dr Phraser'. This project uses JavaScript and Object oriented programming for the selection of a random hidden phrase, upon which a player has 5 lives to guess the phrase by either clicking letters on an on-screen keyboard or physically typing said letters.",
+      "technologies": ["JavaScript", "DOM manipulation", "html", "css", "git"],
+      "live_link": "https://webdevbrum.github.io/TechDegree-Project-4/",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-4",
+      "image_urls": [
+        "public/images/phraser/phraser_square.jpeg",
+        "public/images/phraser/phraser_wide.jpeg",
+        "public/images/phraser/phraser_play.jpeg",
+        "public/images/phraser/phraser_gameover.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive form with validation",
+      "description": "This form uses javaScript to enhance an interactive regitration form for a fictional conference by using customized and conditional behaviour/interactivity. This includes the validation of user input to provide error messages when the user enters invalid information.",
+      "technologies": [
+        "JavaScript",
+        "DOM manipulation",
+        "html",
+        "css",
+        "regex",
+        "git"
+      ],
+      "live_link": "https://webdevbrum.github.io/TechDegree-Project-3/",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-3",
+      "image_urls": [
+        "public/images/form/form_square.jpeg",
+        "public/images/form/form_wide.jpeg",
+        "public/images/form/form_invalid.jpeg",
+        "public/images/form/form_base.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Stephen King - Random Quote Generator",
+      "description": "A Random quote generator built with vanilla JavaScript, this generator also selects a random colour on quote change and automatically switches quote within a given timeframe",
+      "technologies": ["JavaScript", "DOM manipulation", "html", "css", "git"],
+      "live_link": "https://webdevbrum.github.io/TechDegree-Project-1/",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-1",
+      "image_urls": [
+        "public/images/quotes/quotes_square.jpeg",
+        "public/images/quotes/quotes_wide.jpeg",
+        "public/images/quotes/quotes_red.jpeg",
+        "public/images/quotes/quotes_blue.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Pagination and filtering",
+      "description": "This project used DOM scripting to apply pagination and filtering to a given list , in this case students. A search component was added Dynamically to create and append a search bar and the results paginated depending on how many search results were returned",
+      "technologies": ["JavaScript", "DOM manipulation", "html", "css", "git"],
+      "live_link": "https://webdevbrum.github.io/TechDegree-Project-2/",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-2",
+      "image_urls": [
+        "public/images/pagination/pagination_square.jpeg",
+        "public/images/pagination/pagination_wide.jpeg",
+        "public/images/pagination/pagination_search.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Tat Vision",
+      "description": "An intentionally retro site built for a local artist, the artist higlighted the space jam website as inspiration and a table was derived from the site for layout purposes, I further enhanced the site by utilising css grid and javascript to add a number of gallery items and a tv noise/static effect on gallery page changes.",
+      "technologies": [
+        "JavaScript",
+        "DOM manipulation",
+        "html",
+        "css",
+        "css grid",
+        "git"
+      ],
+      "live_link": "https://webdevbrum.github.io/Tat-Vision/",
+      "github_link": "https://github.com/WebDevBrum/Tat-Vision",
+      "image_urls": [
+        "public/images/tat/tat_square.jpeg",
+        "public/images/tat/tat_wide.jpeg",
+        "public/images/tat/tat_gallery.jpeg",
+        "public/images/tat/tat_base.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Disc-Craft built with Bootstrap",
+      "description": "This project utilises a Bootstrap template to create a responsive landing page for a fictional beer and music company",
+      "technologies": ["Bootstrap", "html", "css", "git"],
+      "live_link": "https://webdevbrum.github.io/DiscCraft/",
+      "github_link": "https://github.com/WebDevBrum/DiscCraft",
+      "image_urls": [
+        "public/images/disccraft/disc_square.jpeg",
+        "public/images/disccraft/disc_wide.jpeg",
+        "public/images/disccraft/disc-centre.jpeg",
+        "public/images/disccraft/disc_base.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "project_name": "Legacy Portfolio",
+      "description": "This project was created for completion of the freeCodeCamp Responsive web design certification and has stood as my portfolio prior to this point, it felt a shame not to include this",
+      "technologies": ["html", "css", "css flexbox", "git"],
+      "live_link": "https://webdevbrum.github.io/portfolio1/",
+      "github_link": "https://github.com/WebDevBrum/portfolio1",
+      "image_urls": [
+        "public/images/portfolio/portfolio_square.jpeg",
+        "public/images/portfolio/portfolio_wide.jpeg",
+        "public/images/portfolio/portfolio_body.jpeg",
+        "public/images/portfolio/portfolio_footer.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "project_name": "JavaScript Calculator",
+      "description": "This calculator was built after briefly working through the initial ODIN project curriculum, it actually turned out not to be as simple to build as expected, though it was quite exciting when it actually worked",
+      "technologies": ["JavaScript", "html", "css", "css flexbox", "git"],
+      "live_link": "https://webdevbrum.github.io/ODIN-Calculator-App/",
+      "github_link": "https://github.com/WebDevBrum/ODIN-Calculator-App",
+      "image_urls": [
+        "public/images/calculator/calculator_square.jpeg",
+        "public/images/calculator/calculator_wide.jpeg",
+        "public/images/calculator/calculator_entry.jpeg"
+      ]
+    }
+  ]
+}
