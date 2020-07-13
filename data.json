@@ -17,9 +17,9 @@
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-5/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-5",
       "image_urls": [
-        "public/images/apis/api_square.jpeg",
-        "public/images/apis/api_wide.jpeg",
-        "public/images/apis/api_search.jpeg"
+        "/images/apis/api_square.jpeg",
+        "/images/apis/api_wide.jpeg",
+        "/images/apis/api_search.jpeg"
       ]
     },
     {
@@ -30,10 +30,10 @@
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-4/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-4",
       "image_urls": [
-        "public/images/phraser/phraser_square.jpeg",
-        "public/images/phraser/phraser_wide.jpeg",
-        "public/images/phraser/phraser_play.jpeg",
-        "public/images/phraser/phraser_gameover.jpeg"
+        "/images/phraser/phraser_square.jpeg",
+        "/images/phraser/phraser_wide.jpeg",
+        "/images/phraser/phraser_play.jpeg",
+        "/images/phraser/phraser_gameover.jpeg"
       ]
     },
     {
@@ -51,10 +51,10 @@
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-3/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-3",
       "image_urls": [
-        "public/images/form/form_square.jpeg",
-        "public/images/form/form_wide.jpeg",
-        "public/images/form/form_invalid.jpeg",
-        "public/images/form/form_base.jpeg"
+        "/images/form/form_square.jpeg",
+        "/images/form/form_wide.jpeg",
+        "/images/form/form_invalid.jpeg",
+        "/images/form/form_base.jpeg"
       ]
     },
     {
@@ -65,10 +65,10 @@
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-1/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-1",
       "image_urls": [
-        "public/images/quotes/quotes_square.jpeg",
-        "public/images/quotes/quotes_wide.jpeg",
-        "public/images/quotes/quotes_red.jpeg",
-        "public/images/quotes/quotes_blue.jpeg"
+        "/images/quotes/quotes_square.jpeg",
+        "/images/quotes/quotes_wide.jpeg",
+        "/images/quotes/quotes_red.jpeg",
+        "/images/quotes/quotes_blue.jpeg"
       ]
     },
     {
@@ -79,9 +79,9 @@
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-2/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-2",
       "image_urls": [
-        "public/images/pagination/pagination_square.jpeg",
-        "public/images/pagination/pagination_wide.jpeg",
-        "public/images/pagination/pagination_search.jpeg"
+        "/images/pagination/pagination_square.jpeg",
+        "/images/pagination/pagination_wide.jpeg",
+        "/images/pagination/pagination_search.jpeg"
       ]
     },
     {
@@ -99,10 +99,10 @@
       "live_link": "https://webdevbrum.github.io/Tat-Vision/",
       "github_link": "https://github.com/WebDevBrum/Tat-Vision",
       "image_urls": [
-        "public/images/tat/tat_square.jpeg",
-        "public/images/tat/tat_wide.jpeg",
-        "public/images/tat/tat_gallery.jpeg",
-        "public/images/tat/tat_base.jpeg"
+        "/images/tat/tat_square.jpeg",
+        "/images/tat/tat_wide.jpeg",
+        "/images/tat/tat_gallery.jpeg",
+        "/images/tat/tat_base.jpeg"
       ]
     },
     {
@@ -113,10 +113,10 @@
       "live_link": "https://webdevbrum.github.io/DiscCraft/",
       "github_link": "https://github.com/WebDevBrum/DiscCraft",
       "image_urls": [
-        "public/images/disccraft/disc_square.jpeg",
-        "public/images/disccraft/disc_wide.jpeg",
-        "public/images/disccraft/disc-centre.jpeg",
-        "public/images/disccraft/disc_base.jpeg"
+        "/images/disccraft/disc_square.jpeg",
+        "/images/disccraft/disc_wide.jpeg",
+        "/images/disccraft/disc-centre.jpeg",
+        "/images/disccraft/disc_base.jpeg"
       ]
     },
     {
@@ -127,10 +127,10 @@
       "live_link": "https://webdevbrum.github.io/portfolio1/",
       "github_link": "https://github.com/WebDevBrum/portfolio1",
       "image_urls": [
-        "public/images/portfolio/portfolio_square.jpeg",
-        "public/images/portfolio/portfolio_wide.jpeg",
-        "public/images/portfolio/portfolio_body.jpeg",
-        "public/images/portfolio/portfolio_footer.jpeg"
+        "/images/portfolio/portfolio_square.jpeg",
+        "/images/portfolio/portfolio_wide.jpeg",
+        "/images/portfolio/portfolio_body.jpeg",
+        "/images/portfolio/portfolio_footer.jpeg"
       ]
     },
     {
@@ -141,9 +141,9 @@
       "live_link": "https://webdevbrum.github.io/ODIN-Calculator-App/",
       "github_link": "https://github.com/WebDevBrum/ODIN-Calculator-App",
       "image_urls": [
-        "public/images/calculator/calculator_square.jpeg",
-        "public/images/calculator/calculator_wide.jpeg",
-        "public/images/calculator/calculator_entry.jpeg"
+        "/images/calculator/calculator_square.jpeg",
+        "/images/calculator/calculator_wide.jpeg",
+        "/images/calculator/calculator_entry.jpeg"
       ]
     }
   ]
