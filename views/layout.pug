@@ -14,11 +14,11 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='/static/images/profile-pic.jpeg')
+            img.logo.thumbnail(src='/static/images/white_logo_transparent_background.png')
           .cell.auto
 
             //- Add your name here.
-            h5 Scott Davies
+            h5 Welcome!
 
             //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
@@ -27,7 +27,7 @@ html(class="no-js" lang="en" dir="ltr")
               | email: scott@scottdavies.uk
 
             //- Add about page route to the href below. 
-            a(href='/about') Learn More →
+            a(href='/about').learn Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
@@ -36,7 +36,10 @@ html(class="no-js" lang="en" dir="ltr")
 
           //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Scott Davies
+      
       block content
+      div.logoWrap
+        img.logomain.thumbnail(src='/static/images/dark_logo_transparent_background.png')
         
 
       

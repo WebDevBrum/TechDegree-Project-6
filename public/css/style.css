@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Alfa+Slab+One&family=Damion&family=Do+Hyeon&family=Graduate&family=Playfair+Display:wght@500&display=swap");
 h1,
 h2,
 h3,
@@ -8,10 +9,7 @@ p {
 }
 
 h5 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  letter-spacing: 2.5px;
-  -webkit-text-transform: uppercase;
-  text-transform: uppercase;
+  font-family: "Graduate", cursive;
 }
 
 h6 {
@@ -22,8 +20,19 @@ h6 {
 }
 
 p {
-  font-size: 15px;
-  color: #666;
+  font-family: "Acme", sans-serif;
+
+  font-size: 16.5px;
+
+  color: black;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h1.myname {
+  font-family: "Damion", cursive;
 }
 
 .round {
@@ -36,6 +45,7 @@ p {
 
 .button {
   background-color: #333;
+  font-family: "Playfair Display", serif;
 }
 
 .button:hover {
@@ -60,9 +70,16 @@ a:hover {
   line-height: 0;
 }
 
+.logo {
+  border: 0px;
+  box-shadow: none;
+}
+
 .portfolio-me {
   padding: 20px;
-  background: #121213;
+  background-image: url("/static/images/black-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   box-shadow: none !important;
 }
@@ -151,8 +168,71 @@ a:hover {
 
 .portfolio-bio {
   line-height: 25px;
+  margin-top: -45px;
 }
 
 i {
   font-size: 0.8em;
+}
+
+.title-bar {
+  background-image: url("/static/images/black-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-image: url("/static/images/whitewall2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a.learn {
+  font-family: "Graduate", cursive;
+  color: #fff;
+}
+
+a.learnb {
+  font-family: "Do Hyeon", sans-serif;
+  color: black;
+  font-size: 20px;
+}
+a.back {
+  font-family: "Acme", sans-serif;
+}
+
+span.title-bar-title {
+  font-family: "Damion", cursive;
+  font-size: 25px;
+}
+
+li {
+  font-family: "Acme", sans-serif;
+}
+
+img.profile.thumbnail {
+  height: 120px;
+  width: 100px;
+  display: inline-block;
+  border: none;
+  box-shadow: none;
+}
+
+div.inline {
+  display: inline;
+}
+
+.logoWrap {
+  width: 100%;
+  text-align: center;
+}
+img.logomain.thumbnail {
+  height: 100px;
+  width: 100px;
+  border: none;
+  box-shadow: none;
+}
+
+article.grid-container.portfolio-index {
+  margin-top: -50px;
 }

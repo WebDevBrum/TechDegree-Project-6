@@ -12,7 +12,6 @@ app.use("/static", express.static("public"));
 app.get("/", (req, res) => {
   res.locals = projects;
   res.render("index", { projects });
-  console.log(projects[0].image_urls[0]);
 });
 
 app.get("/about", (req, res) => {
@@ -61,7 +60,7 @@ app.use((err, req, res, next) => {
   res.render("error", {
     message: err.message,
     status: "Error:" + err.status,
-    error: {},
+    error: err,
   });
 });
 
