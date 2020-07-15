@@ -9,6 +9,7 @@ app.set("view engine", "pug");
 
 app.use("/static", express.static("public"));
 
+//routes
 app.get("/", (req, res) => {
   res.locals = projects;
   res.render("index", { projects });
