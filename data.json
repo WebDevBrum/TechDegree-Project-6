@@ -25,7 +25,7 @@
     },
     {
       "id": 1,
-      "project_name": "React-Gallery",
+      "project_name": "React Gallery App",
       "description": "A searchable photo gallery using Create React App and React Router 4 that implements React best practices such as JSX and managing state via a container component. Data is obtained using the Axios http client to fetch photos from the Flickr API",
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-7/#/guitars",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-7",
