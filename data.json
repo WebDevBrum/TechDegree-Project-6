@@ -195,12 +195,15 @@
     {
       "id": 11,
       "project_name": "Education",
-      "description": "Bsc Combined Stem, Specialising in Mathematics and Software Engineering --- I am around 18 months from completion of a 6 year degree, the most recent completed module being M250 Object Oriented Java programming. My current modules are Tm352 -- Web, mobile and cloud technologies--(Java, JS,Node, cloud services) and Tm351 -- Data management and analysis-- (Python, SQL, NoSQL). I felt it prudent to also work on my professional and practical skills alongside my degree in order to position myself as career ready prior to degree completion and was inspired to complete the Treehouse Full stack JavaScript Tech-Degree after completing a cerificate in responsive web design on freeCodeCamp.",
+      "description": "Bsc Combined Stem (The Open University), Specialising in Mathematics and Software Engineering --- I am around 18 months from completion of a 6 year degree. I felt it prudent to also work on my professional and practical skills alongside my degree in order to position myself as career ready prior to degree completion and was inspired to complete the Treehouse Full stack JavaScript Tech-Degree after completing a cerificate in responsive web design on freeCodeCamp.",
       "technologies": [
         "JavaScript",
         "NodeJS",
-        "Java",
+        "Java OOP",
         "Python",
+        "Data Analysis with Pandas",
+        "Jupyter Notebooks",
+        "Web, Mobile and cloud technologies",
         "SQL",
         "NoSQL",
         "React",
