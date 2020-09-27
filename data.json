@@ -2,6 +2,55 @@
   "projects": [
     {
       "id": 0,
+      "project_name": "Full stack React Application",
+      "description": "In this project I used React to create a client for my self built school database REST API. This full stack application provides a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, viewing detail for a specific course, as well as creating, updating and deleting courses in the database. The project also requires users to create an account and sign in to make changes to the database. (Live demo not avaialable at present, Please clone my repo and follow the README)",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "REST",
+        "SQL ORM Sequelize",
+        "Express",
+        "React.js",
+        "React Context API",
+        "JSX",
+        "React Router 4",
+        "SQL",
+        "SQLite"
+      ],
+      "live_link": "https://github.com/WebDevBrum/TechDegree-Final-Project",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Final-Project/blob/master/README.md",
+      "image_urls": [
+        "/images/fullstackapp/fullstacksquare.jpeg",
+        "/images/fullstackapp/fullstacksignin.jpeg",
+        "/images/fullstackapp/fullstackcourse.jpeg",
+        "/images/fullstackapp/database.jpeg"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "REST API",
+      "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, as well as adding, updating and deleting courses in the database. In addition, the API will require users to create an account and log-in to make changes to the database. (Please clone my repo and follow the instructions in the README for a demonstration)",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "SQL ORM Sequelize",
+        "Express",
+        "REST",
+        "SQL",
+        "SQLite",
+        "Postman"
+      ],
+      "live_link": "https://github.com/WebDevBrum/TechDegree-Project-9",
+      "github_link": "https://github.com/WebDevBrum/TechDegree-Project-9/blob/master/README.md",
+      "image_urls": [
+        "/images/restapi/bottomapi.jpeg",
+        "/images/restapi/topapi.jpeg",
+        "/images/restapi/bottomapi.jpeg"
+      ]
+    },
+
+    {
+      "id": 2,
       "project_name": "SQL Library Manager",
       "description": "A web application for a fictional local library to help them manage their collection of books. Includes functionality to add, update and delete books and also allows for search and pagination of the collection. Error handling carried out via express middleware. This is a dynamic website using JavaScript, Node.js, Express, Pug, and the SQL ORM Sequelize. ",
       "technologies": [
@@ -12,8 +61,7 @@
         "PUG",
         "CSS",
         "SQL",
-        "SQLite",
-        "Git"
+        "SQLite"
       ],
       "live_link": "https://lulworth-library.herokuapp.com/books/page/1",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-8",
@@ -25,7 +73,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
       "project_name": "Web Cooks Public API request",
       "description": "An Application for a fictional company called Web Cooks with remote employees working all over the world. This project users the Random User Generator API (https://randomuser.me) to grab information for 12 random employees and uses that data to build a prototype for an employee directory.",
       "technologies": [
@@ -34,9 +82,7 @@
         "HTTP requests",
         "AJAX",
         "Fetch API",
-        "HTML",
-        "CSS",
-        "Git"
+        "CSS"
       ],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-5/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-5",
@@ -48,7 +94,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "project_name": "React Gallery App",
       "description": "A searchable photo gallery using Create React App and React Router 4 that implements React best practices such as JSX and managing state via a container component. Data is obtained using the Axios http client to fetch photos from the Flickr API",
       "live_link": " https://react-gallery-on-netlify.netlify.app",
@@ -59,8 +105,7 @@
         "React Router 4",
         "Axios",
         "JavaScript",
-        "CSS",
-        "Git"
+        "CSS"
       ],
       "image_urls": [
         "/images/reactgallery/reactsquare.jpeg",
@@ -69,10 +114,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "project_name": "Dr Phraser",
       "description": "A Browser based word guessing game 'Dr Phraser'. This project uses JavaScript and Object oriented programming for the selection of a random hidden phrase, upon which a player has 5 lives to guess the phrase by either clicking letters on an on-screen keyboard or physically typing said letters.",
-      "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS", "Git"],
+      "technologies": ["JavaScript", "DOM manipulation", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-4/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-4",
       "image_urls": [
@@ -82,8 +127,9 @@
         "/images/phraser/phraser_gameover.jpeg"
       ]
     },
+
     {
-      "id": 4,
+      "id": 6,
       "project_name": "Interactive form with validation",
       "description": "This form uses JavaScript to enhance an interactive registration form for a fictional conference by using customized and conditional behaviour/interactivity. This includes the validation of user input to provide error messages when the user enters invalid information.",
       "technologies": [
@@ -91,8 +137,7 @@
         "DOM manipulation",
         "HTML",
         "CSS",
-        "Regex",
-        "Git"
+        "Regex"
       ],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-3/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-3",
@@ -104,10 +149,10 @@
       ]
     },
     {
-      "id": 5,
+      "id": 7,
       "project_name": "Stephen King - Random Quote Generator",
       "description": "A Random quote generator built with vanilla JavaScript, this generator also selects a random colour on quote change and automatically switches quote within a given timeframe",
-      "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS", "Git"],
+      "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-1/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-1",
       "image_urls": [
@@ -118,10 +163,10 @@
       ]
     },
     {
-      "id": 6,
+      "id": 8,
       "project_name": "Pagination and filtering",
       "description": "This project used DOM scripting to apply pagination and filtering to a given list , in this case students. A search component was added Dynamically to create and append a search bar and the results paginated depending on how many search results were returned",
-      "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS", "Git"],
+      "technologies": ["JavaScript", "DOM manipulation", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-2/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-2",
       "image_urls": [
@@ -131,7 +176,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "project_name": "Tat Vision",
       "description": "An intentionally retro site built for a local artist, the artist higlighted the space jam website as inspiration and a table was derived from the site for layout purposes, I further enhanced the site by utilising css grid and javascript to add a number of gallery items and a tv noise/static effect on gallery page changes.",
       "technologies": [
@@ -139,8 +184,7 @@
         "DOM manipulation",
         "HTML",
         "CSS",
-        "CSS grid",
-        "Git"
+        "CSS grid"
       ],
       "live_link": "https://webdevbrum.github.io/Tat-Vision/",
       "github_link": "https://github.com/WebDevBrum/Tat-Vision",
@@ -152,10 +196,10 @@
       ]
     },
     {
-      "id": 8,
+      "id": 10,
       "project_name": "Disc-Craft built with Bootstrap",
       "description": "This project utilises a Bootstrap template to create a responsive landing page for a fictional beer and music company",
-      "technologies": ["Bootstrap", "HTML", "CSS", "Git"],
+      "technologies": ["Bootstrap", "HTML", "CSS"],
       "live_link": "https://webdevbrum.github.io/DiscCraft/",
       "github_link": "https://github.com/WebDevBrum/DiscCraft",
       "image_urls": [
@@ -166,10 +210,10 @@
       ]
     },
     {
-      "id": 9,
+      "id": 11,
       "project_name": "Legacy Portfolio",
       "description": "This project was created for completion of the freeCodeCamp Responsive web design certification and has stood as my portfolio prior to this point, it felt a shame not to include this",
-      "technologies": ["HTML", "CSS", "CSS flexbox", "Git"],
+      "technologies": ["HTML", "CSS", "CSS flexbox"],
       "live_link": "https://webdevbrum.github.io/portfolio1/",
       "github_link": "https://github.com/WebDevBrum/portfolio1",
       "image_urls": [
@@ -180,10 +224,10 @@
       ]
     },
     {
-      "id": 10,
+      "id": 12,
       "project_name": "JavaScript Calculator",
       "description": "This calculator was built after briefly working through the initial ODIN project curriculum, it actually turned out not to be as simple to build as expected, though it was quite exciting when it actually worked",
-      "technologies": ["JavaScript", "HTML", "CSS", "CSS flexbox", "Git"],
+      "technologies": ["JavaScript", "HTML", "CSS", "CSS flexbox"],
       "live_link": "https://webdevbrum.github.io/ODIN-Calculator-App/",
       "github_link": "https://github.com/WebDevBrum/ODIN-Calculator-App",
       "image_urls": [
@@ -193,7 +237,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 13,
       "project_name": "Education",
       "description": "Bsc Combined Stem (The Open University), Specialising in Mathematics and Software Engineering --- I am around 18 months from completion of a 6 year degree. I felt it prudent to also work on my professional and practical skills alongside my degree in order to position myself as career ready prior to degree completion and was inspired to complete the Treehouse Full stack JavaScript Tech-Degree after completing a cerificate in responsive web design on freeCodeCamp.",
       "technologies": [
