@@ -1,19 +1,32 @@
-## CONTENTS OF THIS FILE
+<img src='readme-images/treehouse.png' width='200' height='50' alt='treehouse logo'/>
 
-- Introduction
+# TechDegree-Project-6
 
-Welcome to my portfolio , created to fulfill the requirements of treehouse full stack js tech degree project 6.
+## Express JS Portfolio
 
-The following items have been added to meet 'exceeds expectations'
+<img src='readme-images/front.jpeg' width='350' height='200' alt='project preview'/>
 
-NPM Start via package.json
-An error.pug file
-Multiple clear changes to the styling.
+## Live Demo
 
-- Requirements
-- Recommended modules
-- Installation
-- Configuration
-- Troubleshooting
-- FAQ
-- Maintainers
+http://www.scottdavies.uk
+
+## Getting Started
+
+To get up and running with this project, run the following commands from the root of the folder that contains this README file.
+
+First, install the project's dependencies using `npm`.
+
+```
+npm install
+```
+
+And start the application.
+
+```
+npm start
+```
+
+This will then run on 
+
+[http://localhost:3000/](http://localhost:3000/).
+
