@@ -182,7 +182,8 @@ i {
 }
 
 body {
-  background-image: url("/static/images/whitewall2.jpg");
+  /* background-image: url("/static/images/whitewall2.jpg"); */
+  background-color: #f8f8ff;
   background-repeat: no-repeat;
   background-size: cover;
 }
