@@ -242,6 +242,13 @@ img.logomain.thumbnail {
   box-shadow: none;
 }
 
+img.logo.thumbnail {
+ border: none; 
+  border-radius: none;
+  box-shadow:  none;
+
+}
+
 article.grid-container.portfolio-index {
   margin-top: -50px;
 }
