@@ -216,6 +216,9 @@ img.profile.thumbnail {
   display: inline-block;
   border: none;
   box-shadow: none;
+  border: solid 0.5px black; 
+  border-radius: 5px;
+  box-shadow:  5px 5px rgba(10, 10, 10, 0.2);
 }
 
 div.inline {
