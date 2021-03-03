@@ -24,7 +24,7 @@
   "homepage": "https://github.com/WebDevBrum/TechDegree-Project-6#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
