@@ -90,7 +90,7 @@
     {
       "id": 4,
       "project_name": "React Gallery App",
-      "description": "A searchable photo gallery using React",
+      "description": "A searchable photo gallery using React.",
       "live_link": " https://react-gallery-on-netlify.netlify.app",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-7",
       "technologies": [
@@ -189,7 +189,7 @@
     {
       "id": 10,
       "project_name": "Disc-Craft built with Bootstrap",
-      "description": "This project utilises a Bootstrap template to create a responsive landing page for a fictional beer and music company",
+      "description": "This project utilises a Bootstrap template to create a responsive landing page for a fictional beer and music company.",
       "technologies": ["Bootstrap", "HTML", "CSS"],
       "live_link": "https://webdevbrum.github.io/DiscCraft/",
       "github_link": "https://github.com/WebDevBrum/DiscCraft",
@@ -230,7 +230,7 @@
     {
       "id": 13,
       "project_name": "Education",
-      "description": "Bsc Combined Stem (The Open University), Specialising in Mathematics and Software Engineering --- I am around 18 months from completion of a 6 year degree. I felt it prudent to also work on my professional and practical skills alongside my degree in order to position myself as career ready prior to degree completion and was inspired to complete the Treehouse Full stack JavaScript Tech-Degree after completing a cerificate in responsive web design on freeCodeCamp.",
+      "description": "Bsc Combined Stem (The Open University - May 2022), Specialising in Mathematics and Software Engineering, Treehouse Full stack JavaScript Tech-Degree, responsive web design atfreeCodeCamp.",
       "technologies": [
         "JavaScript",
         "NodeJS",
@@ -238,7 +238,6 @@
         "Python",
         "Data Analysis with Pandas",
         "Jupyter Notebooks",
-        "Web, Mobile and cloud technologies",
         "SQL",
         "NoSQL",
         "React",
