@@ -217,7 +217,7 @@
     {
       "id": 12,
       "project_name": "JavaScript Calculator",
-      "description": "This calculator was built after briefly working through the initial ODIN project curriculum, it actually turned out not to be as simple to build as expected, though it was quite exciting when it actually worked",
+      "description": "A simple calculator using vanilla javaScript.",
       "technologies": ["JavaScript", "HTML", "CSS", "CSS flexbox"],
       "live_link": "https://webdevbrum.github.io/ODIN-Calculator-App/",
       "github_link": "https://github.com/WebDevBrum/ODIN-Calculator-App",
@@ -230,7 +230,7 @@
     {
       "id": 13,
       "project_name": "Education",
-      "description": "Bsc Combined Stem (The Open University - May 2022), Specialising in Mathematics and Software Engineering, Treehouse Full stack JavaScript Tech-Degree, responsive web design atfreeCodeCamp.",
+      "description": "Bsc Combined Stem (The Open University - May 2022), Specialising in Mathematics and Software Engineering, Treehouse Full stack JavaScript Tech-Degree, Responsive web design - freeCodeCamp.",
       "technologies": [
         "JavaScript",
         "NodeJS",
