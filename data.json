@@ -26,7 +26,7 @@
     {
       "id": 1,
       "project_name": "REST API",
-      "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses. (Please clone my repo and follow the instructions in the README for a demonstration)",
+      "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses.",
       "technologies": [
         "JavaScript",
         "NodeJS",
@@ -69,7 +69,7 @@
     {
       "id": 3,
       "project_name": "Web Cooks Public API request",
-      "description": "An Application for a fictional company called Web Cooks with remote employees working all over the world. This project users the Random User Generator API (https://randomuser.me) to grab information for 12 random employees and uses that data to build a prototype for an employee directory.",
+      "description": "An Application for a fictional company called Web Cooks with remote employees working all over the world. This project users the Random User Generator API (https://randomuser.me)",
       "technologies": [
         "JavaScript",
         "JSON",
@@ -90,14 +90,11 @@
     {
       "id": 4,
       "project_name": "React Gallery App",
-      "description": "A searchable photo gallery using Create React App and React Router 4 that implements React best practices such as JSX and managing state via a container component. Data is obtained using the Axios http client to fetch photos from the Flickr API",
+      "description": "A searchable photo gallery using React",
       "live_link": " https://react-gallery-on-netlify.netlify.app",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-7",
       "technologies": [
-        "React.js",
-        "JSX",
-        "React Router 4",
-        "Axios",
+        "ReactJS",
         "JavaScript",
         "CSS"
       ],
@@ -110,7 +107,7 @@
     {
       "id": 5,
       "project_name": "Dr Phraser",
-      "description": "A Browser based word guessing game 'Dr Phraser'. This project uses JavaScript and Object oriented programming for the selection of a random hidden phrase, upon which a player has 5 lives to guess the phrase by either clicking letters on an on-screen keyboard or physically typing said letters.",
+      "description": "A Browser based word guessing game.",
       "technologies": ["JavaScript", "DOM manipulation", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-4/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-4",
@@ -125,7 +122,7 @@
     {
       "id": 6,
       "project_name": "Interactive form with validation",
-      "description": "This form uses JavaScript to enhance an interactive registration form for a fictional conference by using customized and conditional behaviour/interactivity. This includes the validation of user input to provide error messages when the user enters invalid information.",
+      "description": "This form uses JavaScript to enhance an interactive registration form for a fictional conference.",
       "technologies": [
         "JavaScript",
         "DOM manipulation",
@@ -145,7 +142,7 @@
     {
       "id": 7,
       "project_name": "Stephen King - Random Quote Generator",
-      "description": "A Random quote generator built with vanilla JavaScript, this generator also selects a random colour on quote change and automatically switches quote within a given timeframe",
+      "description": "A Random quote generator built with vanilla JavaScript.",
       "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-1/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-1",
@@ -159,7 +156,7 @@
     {
       "id": 8,
       "project_name": "Pagination and filtering",
-      "description": "This project used DOM scripting to apply pagination and filtering to a given list , in this case students. A search component was added Dynamically to create and append a search bar and the results paginated depending on how many search results were returned",
+      "description": "This project used DOM scripting to apply pagination and filtering to a given list.",
       "technologies": ["JavaScript", "DOM manipulation", "CSS"],
       "live_link": "https://webdevbrum.github.io/TechDegree-Project-2/",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-2",
@@ -172,7 +169,7 @@
     {
       "id": 9,
       "project_name": "Tat Vision",
-      "description": "An intentionally retro site built for a local artist, the artist higlighted the space jam website as inspiration and a table was derived from the site for layout purposes, I further enhanced the site by utilising css grid and javascript to add a number of gallery items and a tv noise/static effect on gallery page changes.",
+      "description": "An intentionally retro site built for a local artist.",
       "technologies": [
         "JavaScript",
         "DOM manipulation",
@@ -206,7 +203,7 @@
     {
       "id": 11,
       "project_name": "Legacy Portfolio",
-      "description": "This project was created for completion of the freeCodeCamp Responsive web design certification and has stood as my portfolio prior to this point, it felt a shame not to include this",
+      "description": "This project was created for completion of the freeCodeCamp Responsive web design certification.",
       "technologies": ["HTML", "CSS", "CSS flexbox"],
       "live_link": "https://webdevbrum.github.io/portfolio1/",
       "github_link": "https://github.com/WebDevBrum/portfolio1",
@@ -246,6 +243,7 @@
         "NoSQL",
         "React",
         "Express",
+        "MongoDB",
         "HTML",
         "CSS"
       ],
