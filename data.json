@@ -3,17 +3,14 @@
     {
       "id": 0,
       "project_name": "Full stack React Application",
-      "description": "In this project I used React to create a client for my self built school database REST API. This full stack application provides a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, viewing detail for a specific course, as well as creating, updating and deleting courses in the database. The project also requires users to create an account and sign in to make changes to the database. (Live demo not avaialable at present, Please clone my repo and follow the README)",
+      "description": "React based client and REST API.(Live demo not avaialable at present, Please clone my repo and follow the README)",
       "technologies": [
         "JavaScript",
         "Node.js",
         "REST",
-        "SQL ORM Sequelize",
         "Express",
-        "React.js",
+        "ReactJS".
         "React Context API",
-        "JSX",
-        "React Router 4",
         "SQL",
         "SQLite"
       ],
@@ -29,15 +26,13 @@
     {
       "id": 1,
       "project_name": "REST API",
-      "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, as well as adding, updating and deleting courses in the database. In addition, the API will require users to create an account and log-in to make changes to the database. (Please clone my repo and follow the instructions in the README for a demonstration)",
+      "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses. (Please clone my repo and follow the instructions in the README for a demonstration)",
       "technologies": [
         "JavaScript",
-        "Node.js",
-        "SQL ORM Sequelize",
+        "NodeJS",
         "Express",
         "REST",
         "SQL",
-        "SQLite",
         "Postman"
       ],
       "live_link": "https://github.com/WebDevBrum/TechDegree-Project-9",
@@ -52,11 +47,10 @@
     {
       "id": 2,
       "project_name": "SQL Library Manager",
-      "description": "A web application for a fictional local library to help them manage their collection of books. Includes functionality to add, update and delete books and also allows for search and pagination of the collection. Error handling carried out via express middleware. This is a dynamic website using JavaScript, Node.js, Express, Pug, and the SQL ORM Sequelize. ",
+      "description": "A web application for a fictional local library to help them manage their collection of books.",
       "technologies": [
         "JavaScript",
-        "Node.js",
-        "SQL ORM Sequelize",
+        "NodeJS",
         "Express",
         "PUG",
         "CSS",
