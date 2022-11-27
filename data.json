@@ -2,6 +2,34 @@
   "projects": [
     {
       "id": 0,
+      "project_name": "devFinder",
+      "description": "**Under Construction**, A React app built from pre supplied Figma designs that searches the GitHub API to present user details in an interactive UI, this has allowed me to practice pixel perfect implementation and to learn Tailwind CSS",
+      "technologies": ["JavaScript", "ReactJS", "API's"],
+      "live_link": "https://github.com/WebDevBrum/github-search-app",
+      "github_link": "https://github.com/WebDevBrum/github-search-app",
+      "image_urls": [
+        "/images/devfinder/light.jpeg",
+        "/images/devfinder/dark.jpeg",
+        "/images/devfinder/light.jpeg"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Cushion Roulette",
+      "description": "A planned development project of my choosing for my University Dissertation requiring research into various Web Technologies and project design using Adobe XD. The final app used React to pull data from the MovieDB API, this allowed the user to make several selections that populate a roulette wheel that spins and makes a selection for them. This was to handle the issue of choice paralysis when decision making.",
+      "technologies": ["JavaScript", "ReactJS", "API's"],
+      "live_link": "https://cushion-roulette.herokuapp.com/",
+      "github_link": "https://github.com/WebDevBrum/cushion-roulette",
+      "image_urls": [
+        "/images/roulette/spin.jpeg",
+        "/images/roulette/home.jpeg",
+        "/images/roulette/spin.jpeg",
+        "/images/roulette/modal.jpeg"
+      ]
+    },
+
+    {
+      "id": 2,
       "project_name": "Full stack React Application",
       "description": "React based client and REST API.(Live demo not avaialable at present, Please clone my repo and follow the README)",
       "technologies": [
@@ -24,7 +52,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
       "project_name": "REST API",
       "description": "A REST API using Express. The API provides a way for users to administer a school database containing information about courses.",
       "technologies": [
@@ -45,7 +73,7 @@
     },
 
     {
-      "id": 2,
+      "id": 4,
       "project_name": "SQL Library Manager",
       "description": "A web application for a fictional local library to help them manage their collection of books.",
       "technologies": [
@@ -67,7 +95,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "project_name": "Web Cooks Public API request",
       "description": "An Application for a fictional company called Web Cooks with remote employees working all over the world. This project users the Random User Generator API (https://randomuser.me)",
       "technologies": [
@@ -88,16 +116,12 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "project_name": "React Gallery App",
       "description": "A searchable photo gallery using React.",
       "live_link": " https://react-gallery-on-netlify.netlify.app",
       "github_link": "https://github.com/WebDevBrum/TechDegree-Project-7",
-      "technologies": [
-        "ReactJS",
-        "JavaScript",
-        "CSS"
-      ],
+      "technologies": ["ReactJS", "JavaScript", "CSS"],
       "image_urls": [
         "/images/reactgallery/reactsquare.jpeg",
         "/images/reactgallery/reactfront.jpeg",
@@ -105,7 +129,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 7,
       "project_name": "Dr Phraser",
       "description": "A Browser based word guessing game.",
       "technologies": ["JavaScript", "DOM manipulation", "CSS"],
@@ -120,7 +144,7 @@
     },
 
     {
-      "id": 6,
+      "id": 8,
       "project_name": "Interactive form with validation",
       "description": "This form uses JavaScript to enhance an interactive registration form for a fictional conference.",
       "technologies": [
@@ -140,7 +164,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "project_name": "Stephen King - Random Quote Generator",
       "description": "A Random quote generator built with vanilla JavaScript.",
       "technologies": ["JavaScript", "DOM manipulation", "HTML", "CSS"],
@@ -154,7 +178,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 10,
       "project_name": "Pagination and filtering",
       "description": "This project used DOM scripting to apply pagination and filtering to a given list.",
       "technologies": ["JavaScript", "DOM manipulation", "CSS"],
@@ -166,28 +190,9 @@
         "/images/pagination/pagination_search.jpeg"
       ]
     },
+
     {
-      "id": 9,
-      "project_name": "Tat Vision",
-      "description": "An intentionally retro site built for a local artist.",
-      "technologies": [
-        "JavaScript",
-        "DOM manipulation",
-        "HTML",
-        "CSS",
-        "CSS grid"
-      ],
-      "live_link": "https://webdevbrum.github.io/Tat-Vision/",
-      "github_link": "https://github.com/WebDevBrum/Tat-Vision",
-      "image_urls": [
-        "/images/tat/tat_square.jpeg",
-        "/images/tat/tat_wide.jpeg",
-        "/images/tat/tat_gallery.jpeg",
-        "/images/tat/tat_base.jpeg"
-      ]
-    },
-    {
-      "id": 10,
+      "id": 11,
       "project_name": "Disc-Craft built with Bootstrap",
       "description": "This project utilises a Bootstrap template to create a responsive landing page for a fictional beer and music company.",
       "technologies": ["Bootstrap", "HTML", "CSS"],
@@ -201,7 +206,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "project_name": "Legacy Portfolio",
       "description": "This project was created for completion of the freeCodeCamp Responsive web design certification.",
       "technologies": ["HTML", "CSS", "CSS flexbox"],
@@ -215,7 +220,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "project_name": "JavaScript Calculator",
       "description": "A simple calculator using vanilla javaScript.",
       "technologies": ["JavaScript", "HTML", "CSS", "CSS flexbox"],
@@ -225,34 +230,6 @@
         "/images/calculator/calculator_square.jpeg",
         "/images/calculator/calculator_wide.jpeg",
         "/images/calculator/calculator_entry.jpeg"
-      ]
-    },
-    {
-      "id": 13,
-      "project_name": "Education",
-      "description": "Bsc Combined Stem (The Open University - May 2022), Specialising in Mathematics and Software Engineering, Treehouse Full stack JavaScript Tech-Degree, Responsive web design - freeCodeCamp.",
-      "technologies": [
-        "JavaScript",
-        "NodeJS",
-        "Java OOP",
-        "Python",
-        "Data Analysis with Pandas",
-        "Jupyter Notebooks",
-        "SQL",
-        "NoSQL",
-        "React",
-        "Express",
-        "MongoDB",
-        "HTML",
-        "CSS"
-      ],
-      "live_link": "http://www.open.ac.uk/courses/combined-studies/degrees/bsc-combined-science-maths-technology-engineering-r28",
-      "github_link": "https://github.com/WebDevBrum",
-      "image_urls": [
-        "/images/education/edsquare.png",
-        "/images/education/degree.jpeg",
-        "/images/education/treehouse2.jpeg",
-        "/images/education/fccamp.jpeg"
       ]
     }
   ]

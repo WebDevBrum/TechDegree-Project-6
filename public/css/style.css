@@ -40,7 +40,7 @@ h1.myname {
 }
 
 .text-light {
-  color: #666;
+  color: black;
 }
 
 .button {
@@ -53,7 +53,7 @@ h1.myname {
 }
 
 a {
-  color: #333;
+  color: black;
 }
 
 a:hover {
@@ -64,9 +64,9 @@ a:hover {
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 0.5px black; 
+  border: solid 0.5px black;
   border-radius: 5px;
-  box-shadow:  5px 5px rgba(10, 10, 10, 0.2);
+  box-shadow: 5px 5px rgba(10, 10, 10, 0.2);
   line-height: 0;
 }
 
@@ -77,16 +77,18 @@ a:hover {
 
 .portfolio-me {
   padding: 20px;
-  background-image: url("/static/images/black-bg.jpg");
+  /* background-image: url("/static/images/black-bg.jpg"); */
+  background-color: #fcf15f;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #fff;
+  color: black;
   box-shadow: none !important;
+  border-right: 2px solid black;
 }
 
 .portfolio-me p {
   font-size: 14px;
-  color: #999;
+  color: black;
 }
 
 .portfolio-me a {
@@ -124,8 +126,8 @@ a:hover {
 }
 
 .portfolio-intro p {
-  border-bottom: 1px solid #eaeaea;
-  padding-bottom: 40px;
+  border-bottom: 1px solid black;
+  padding-bottom: 50px;
 }
 
 .portfolio-index {
@@ -163,7 +165,7 @@ a:hover {
 
 .portfolio-project li {
   font-size: 13px;
-  color: #444;
+  color: black;
 }
 
 .portfolio-bio {
@@ -176,21 +178,24 @@ i {
 }
 
 .title-bar {
-  background-image: url("/static/images/black-bg.jpg");
+  /* background-image: url("/static/images/black-bg.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #fcf15f;
+  color: black;
+  border-bottom: 2px solid black;
 }
 
 body {
   /* background-image: url("/static/images/whitewall2.jpg"); */
-  background-color: #f8f8ff;
+  background-color: rgb(95, 106, 252);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 a.learn {
   font-family: "Graduate", cursive;
-  color: #fff;
+  color: black;
 }
 
 a.learnb {
@@ -215,16 +220,36 @@ img.profile.thumbnail {
   height: 120px;
   width: 100px;
   display: inline-block;
-  border: solid 0.5px black; 
+  border: solid 0.5px black;
   border-radius: 5px;
-  box-shadow:  5px 5px rgba(10, 10, 10, 0.2);
+  box-shadow: 5px 5px rgba(10, 10, 10, 0.2);
 }
 
 img.thumbnail {
- border: solid 0.5px black; 
+  width: 320px;
+  height: 227px;
+  border: solid 0.5px black;
   border-radius: 5px;
-  box-shadow:  5px 5px rgba(10, 10, 10, 0.2);
+  box-shadow: 5px 5px rgba(10, 10, 10, 0.2);
+}
 
+img.brand {
+  /* width: 304px;
+  height: 227px; */
+  /* border: solid 0.5px black;
+  border-radius: 5px;
+  box-shadow: 5px 5px rgba(10, 10, 10, 0.2); */
+  margin-bottom: 50px;
+}
+
+img.me {
+  /* width: 304px;
+  height: 227px; */
+  border: solid 0.5px black;
+  border-radius: 5px;
+  /* box-shadow: 5px 5px rgba(95, 106, 252, 0.3); */
+  /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; */
+  margin-bottom: 50px;
 }
 
 div.inline {
@@ -234,21 +259,29 @@ div.inline {
 .logoWrap {
   width: 100%;
   text-align: center;
+  background-color: #fcf15f;
+  border-top: 1px solid black;
 }
+
 img.logomain.thumbnail {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 140px;
   border: none;
+  padding-top: 20px;
   box-shadow: none;
 }
 
 img.logo.thumbnail {
- border: none; 
+  /* height: 110px;
+  width: 240px; */
+  border: none;
   border-radius: none;
-  box-shadow:  none;
-
+  box-shadow: none;
+  margin-bottom: 50px;
 }
+/* margin-bottom: 30px;
+} */
 
 article.grid-container.portfolio-index {
-  margin-top: -50px;
+  /* margin-top: -50px; */
 }
