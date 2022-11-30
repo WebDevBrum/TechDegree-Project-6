@@ -3,9 +3,9 @@
     {
       "id": 0,
       "project_name": "devFinder",
-      "description": "**Under Construction**, A React app built from pre supplied Figma designs that searches the GitHub API to present user details in an interactive UI, this has allowed me to practice pixel perfect implementation and to learn Tailwind CSS",
+      "description": "A React app built from pre supplied Figma designs that searches the GitHub API to present user details in an interactive UI, this has allowed me to practice pixel perfect implementation and to learn Tailwind CSS",
       "technologies": ["JavaScript", "ReactJS", "API's"],
-      "live_link": "https://github.com/WebDevBrum/github-search-app",
+      "live_link": "https://devfindergit.herokuapp.com/",
       "github_link": "https://github.com/WebDevBrum/github-search-app",
       "image_urls": [
         "/images/devfinder/light.jpeg",
